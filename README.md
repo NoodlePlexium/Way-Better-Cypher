@@ -1,5 +1,6 @@
 # Way-Better-Cypher
 An advanced cycpher, with a stronger encryption algorithm.
+Created as a fun personal project to improve my Python skills.
 
 The algorithm starts with an alphabet of letterns numbers and symbols. 
 This alphabet is shuffled according to a random seed.
